@@ -27,7 +27,7 @@ ext {
             test            : [
                     'commons-io:commons-io:2.20.0',
                     'org.junit.jupiter:junit-jupiter:5.10.1',
-                    'org.assertj:assertj-core:3.25.1',
+                    'org.assertj:assertj-core:3.27.7',
                     'org.hamcrest:hamcrest:3.0',
                     'org.glassfish:jakarta.json:2.0.1',
                     'org.eclipse:yasson:2.0.4',
